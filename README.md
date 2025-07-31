@@ -1,2 +1,2 @@
 # keerthi-NC
-algorithm meam
+algorithm mean
